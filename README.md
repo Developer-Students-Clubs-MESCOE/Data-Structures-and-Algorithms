@@ -29,7 +29,7 @@
 4. Add your code inside appropriate folder.
 5. Contributors are also welcomed to contribute innovative codes.
 6. Once you have contributed in a particular folder the contributor is requested to add his name in Contributors.md just for the record.
-7. Issue a Pull Request
+7. Create a Pull Request
 <h5>Please ⭐️ this repo if you liked it.</h5>
 
 <hr>
