@@ -26,7 +26,7 @@
    `https://github.com/Developer-Students-Clubs-MESCOE/COMPETITIVE-CODING.git`
 
 3. Create a file from language you are going to contribute (Ex:.py/.c/.java/.cpp). Please note the programs you contribute to this repository must be a interactive program and user friendly. If possible please add appropriate comments to the program.
-4. Add your code inside appropriate folder.
+4. Add your code inside appropriate folder or optimize the code which are present in various folders.
 5. Contributors are also welcomed to contribute innovative codes.
 6. Once you have contributed in a particular folder the contributor is requested to add his name in Contributors.md just for the record.
 7. Create a Pull Request
