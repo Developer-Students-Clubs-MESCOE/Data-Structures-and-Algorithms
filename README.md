@@ -21,9 +21,17 @@
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
+ Create a file from language you are going to contribute (Ex:.py/.c/.java/.cpp). Please note the programs you contribute to this repository must be a interactive program and user friendly. If possible please add appropriate comments to the program.
+
+ Add your code inside appropriate folder or optimize the code which are present in various folders.
+
+Contributors are also welcomed to contribute innovative codes.
+
+ Once you have contributed in a particular folder the contributor is requested to add his name in Contributors.md just for the record.
+
 ### Steps required for contributing in open source projects:
 
-1. [Fork](https://github.com/praveenscience/Word-Bank) the project and star the repo if you like.
+1. [Fork](https://github.com/praveenscience/Word-Bank) the project and star the.
 2. Clone the project.
    ```bash
    git clone https://<your-github-username>@github.com/<your-github-username>/word-bank
@@ -136,3 +144,5 @@ When contributing to this repository, please first discuss the change you wish t
    ```
 ### Happy Coding!!
 ### Happy to contribute openSource!!
+
+
