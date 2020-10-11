@@ -20,10 +20,10 @@
 <h4>How to contribute?</h4>
 
 
-1. [Fork](https://github.com/Developer-Students-Clubs-MESCOE/COMPETITIVE-CODING) this repository.
+1. [Fork](https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-Data-Structures-and-Algorithms.git) this repository.
 2. Clone the forked repository to your computer.
 
-   `https://github.com/Developer-Students-Clubs-MESCOE/COMPETITIVE-CODING.git`
+   `https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-Data-Structures-and-Algorithms.git
 
 3. Create a file from language you are going to contribute (Ex:.py/.c/.java/.cpp). Please note the programs you contribute to this repository must be a interactive program and user friendly. If possible please add appropriate comments to the program.
 4. Add your code inside appropriate folder or optimize the code which are present in various folders.
