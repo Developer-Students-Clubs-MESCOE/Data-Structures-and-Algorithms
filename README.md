@@ -1,4 +1,4 @@
-# HacktoberFest-AI-ML
+# HacktoberFest-Data-Structures-and-Algorithms
 
 > [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a chance to level up your coding skills and get small goodies in reward.
 
@@ -28,7 +28,7 @@
 3. Add your choice of code in any of the folder that has been created.
 4. You are also welcomed to add innovative codes of your choice.
 5. Your program should be interactive and please do add comments if possible.
-6. Add your name in the contributors.md file just fotr the record.
+6. Add your name in the contributors.md file just for the record.
 7. Create a Pull Request
 <h5>Please ⭐️ this repo if you liked it.</h5>
 
