@@ -1,8 +1,3 @@
-/* Rasika Deshpande
-   SE IT
-   Roll no: 19012088 (Branch change)
-*/
-
 #include <iostream>
 using namespace std;
 class Node{			//creating class node
