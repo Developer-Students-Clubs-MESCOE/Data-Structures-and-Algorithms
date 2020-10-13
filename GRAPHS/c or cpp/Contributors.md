@@ -5,3 +5,4 @@ If you have contributed to this repository, kindly add your username here
 - [Dhruvil Shah](https://github.com/d-s-2803)
 - [Gaurav Verma](https://github.com/thegauravverma)
 - [Varun Irani](https://github.com/VarunIrani)
+- [Omkar Gurav](https://github.com/OmkarGurav6)
