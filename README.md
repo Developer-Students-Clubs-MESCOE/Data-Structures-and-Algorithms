@@ -28,7 +28,7 @@
 3. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+    git remote add upstream https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-Data-Structures-and-Algorithms
     git pull upstream master
     ```
 
