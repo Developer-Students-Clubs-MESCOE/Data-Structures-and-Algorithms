@@ -25,11 +25,19 @@
 
    `https://github.com/Developer-Students-Clubs-MESCOE/HacktoberFest-Data-Structures-and-Algorithms.git`
 
-3. Add your choice of code in any of the folder that has been created.
-4. You are also welcomed to add innovative codes of your choice.
-5. Your program should be interactive and please do add comments if possible.
-6. Add your name in the contributors.md file just for the record.
-7. Create a Pull Request
+3. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+
+    ```bash
+    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+    git pull upstream master
+    ```
+
+    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+4. Add your choice of code in any of the folder that has been created.
+5. You are also welcomed to add innovative codes of your choice.
+6. Your program should be interactive and please do add comments if possible.
+7. Add your name in the contributors.md file just for the record.
+8. Create a Pull Request
 <h5>Please ⭐️ this repo if you liked it.</h5>
 
 <hr>
