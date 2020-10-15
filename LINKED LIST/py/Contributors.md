@@ -4,6 +4,8 @@ If you have contributed to this repository, kindly add your username here
 
 - [Dhruvil Shah](https://github.com/d-s-2803)
 - [Gaurav Verma](https://github.com/thegauravverma)
+- [Karan Wagh](https://github.com/FlashTech-dev)
 - [Vivek Ray](https://github.com/vivekray903)
 - [Gaurav Kulkarni](https://github.com/gkulk007)
+
 
