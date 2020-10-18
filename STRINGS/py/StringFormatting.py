@@ -1,6 +1,5 @@
-# Solution of HackerRank problem "String Formatting"
+# Solution of HackerRank Problem "String Formatting" in Python
 # "https://www.hackerrank.com/challenges/python-string-formatting/problem"
-
 """Given an integer, , print the following values for each integer  from  to :
 
 Decimal
@@ -9,19 +8,20 @@ Hexadecimal (capitalized)
 Binary
 The four values must be printed on a single line in the order specified above for each  from  to . Each value should be space-padded to match the width of the binary value of .
 
-Input Format
+Input Format:
 
-A single integer denoting .
+A single integer denoting n.
 
-Constraints
+Constraints:
+    1 <= n <= 99
 
-Output Format
+Output Format:
 
-Print  lines where each line  (in the range ) contains the respective decimal, octal, capitalized hexadecimal, and binary values of . Each printed value must be formatted to the width of the binary value of .
+     Print n lines where each line i (in the range 1<= i <=n ) contains the respective decimal, octal, capitalized hexadecimal, and binary values of i. Each printed value must be formatted to the width of the binary value of n.
 
 Sample Input:
 
-17
+    17
 Sample Output:
 
     1     1     1     1
@@ -43,7 +43,6 @@ Sample Output:
    17    21    11 10001     """
    
 # code:
-
 def print_formatted(number):
     width = len(str(bin(n)))-2
     for num in range(1, n+1):
@@ -57,5 +56,4 @@ def print_formatted(number):
 if __name__ == '__main__':
     n = int(input())
     print_formatted(n)
-   
    
