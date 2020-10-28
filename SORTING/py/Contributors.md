@@ -7,3 +7,4 @@ If you have contributed to this repository, kindly add your username here
 - [KARAN WAGH](https://github.com/FlashTech-dev/)
 - [Lisha Ray](https://github.com/Lisharay4x3)
 - [Dhimas Bayu](https://github.com/bailram)
+- [Pijush Barman](https://github.com/Pijush-Beyond)
