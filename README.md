@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithms
 
-<h4>Contribute your C,CPP,JAVA and PYTHON Codes for the HacktoberFest</h4>
+<h4>Contribute your C,CPP,JAVA and PYTHON Codes</h4>
 
 <hr>
 
