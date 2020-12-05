@@ -42,7 +42,8 @@ bool isPalindrome(Node* head){
 return true;
 }
 
-// Driver Code
+
+//Main function
 int main(){
 
   Node one =  Node(1);
