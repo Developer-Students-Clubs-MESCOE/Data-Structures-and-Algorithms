@@ -6,3 +6,4 @@ If you have contributed to this repository, kindly add your username here
 - [Gaurav Verma](https://github.com/thegauravverma)
 - [Taniya Kulkarni](https://github.com/taniyask)
 - [Bhavesh Joshi](https://github.com/Wittty-Panda )
+- [Ananthakrishnan Nair RS](https://github.com/akrish4)
